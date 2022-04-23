@@ -2,7 +2,7 @@
 
 用来随便储存一些东西的档案室
 
-<img src="/images/依神紫苑_0.5x.jpg" width="32%">
+<img src="/data/images/依神紫苑_0.5x.jpg" width="32%">
 
 Profile picture from [pid: 72497361](https://www.pixiv.net/artworks/72497361)
 
@@ -20,4 +20,4 @@ Profile picture from [pid: 72497361](https://www.pixiv.net/artworks/72497361)
 
 ## Resource links
 
-[仙贝美声.mp4](/videos/仙贝美声.mp4)
+[仙贝美声.mp4](/data/videos/Senpai.mp4)
