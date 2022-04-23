@@ -2,6 +2,9 @@
 
 用来随便储存一些东西的档案室
 
+![头像:依神紫苑](/images/依神紫苑_0.5x.jpg)
+From [pid:72497361](https://www.pixiv.net/artworks/72497361)
+
 ## 一些网站的个人主页
 
 [Github个人主页](https://github.com/Yan233333)
