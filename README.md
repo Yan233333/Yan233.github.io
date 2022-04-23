@@ -9,6 +9,6 @@
 [twitter个人主页](https://twitter.com/Yan2336)
 [osu!个人主页](https://osu.ppy.sh/users/20063834)
 
-# 一言以蔽之
+### 一言以蔽之
 
 没几把用
