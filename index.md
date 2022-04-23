@@ -1,4 +1,4 @@
-# Archive Library
+# Archive library
 
 用来随便储存一些东西的档案室
 
@@ -18,8 +18,6 @@ Profile picture from [pid: 72497361](https://www.pixiv.net/artworks/72497361)
 
 [osu!个人主页](https://osu.ppy.sh/users/20063834)
 
-### 一言以蔽之
-
-没几把用
+## Resource links
 
 [仙贝美声.mp4](/videos/仙贝美声.mp4)
