@@ -21,3 +21,5 @@ Profile picture from [pid: 72497361](https://www.pixiv.net/artworks/72497361)
 ### 一言以蔽之
 
 没几把用
+
+[仙贝美声.mp4](/videos/仙贝美声.mp4)
