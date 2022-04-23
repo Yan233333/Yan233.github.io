@@ -4,7 +4,7 @@
 
 <img src="/images/依神紫苑_0.5x.jpg" width="32%">
 
-Profile picture from [pixiv](https://www.pixiv.net/artworks/72497361)
+Profile picture from [pid: 72497361](https://www.pixiv.net/artworks/72497361)
 
 ## 一些网站的个人主页
 
