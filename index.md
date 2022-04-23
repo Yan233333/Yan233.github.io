@@ -2,7 +2,7 @@
 
 用来随便储存一些东西的档案室
 
-<img src="/images/依神紫苑_0.5x.jpg" width="50%">
+<img src="/images/依神紫苑_0.5x.jpg" width="32%">
 
 Profile picture from [pixiv](https://www.pixiv.net/artworks/72497361)
 
