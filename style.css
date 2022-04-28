@@ -105,7 +105,9 @@ a:hover
 #main
 {
     margin: auto;
-    width: 880px;
+    width: 50%;
+    max-width: 880px;
+    min-width: 580px;
 }
 
 #footer
