@@ -8,6 +8,8 @@
 
 p
 {
+    margin-left: 15px;
+    margin-right: 15px;
     font-size: 18px;
 }
 
@@ -27,12 +29,28 @@ a:hover
 .title
 {
     color: #159957;
-    margin: 24px 0px 16px 0px;
+    margin: 15px;
+}
+
+.white-background
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-style: solid;
+    border-color: rgba(127, 127, 127, 0.9);
+    border-width: 1px;
+    border-radius: 15px;
 }
 
 .shadow
 {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75);
+}
+
+.shadow-tiny
+{
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.75);
 }
 
 .inline
@@ -61,32 +79,39 @@ a:hover
     opacity: 1;
 }
 
+#body
+{
+    margin: 0px;
+    background-image: url(https://api.ixiaowai.cn/api/api.php);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
 #top
 {
     text-align: center;
     margin: auto;
-    padding: 80px;
+    padding: 75px;
     background-image: linear-gradient(120deg, #EE9AE5, #5961F9);
-    opacity: 1;
+    opacity: 0.9;
 }
 
 #top:hover
 {
-    padding: 160px;
-    opacity: 0.8;
+    padding: 125px;
+    opacity: 0.75;
 }
 
 #main
 {
     margin: auto;
     width: 880px;
-    padding: 25px 10px;
 }
 
 #footer
 {
     color: white;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.9);
     text-align: center;
     margin: 0px;
     padding: 20px;
@@ -102,6 +127,7 @@ a:hover
 {
     width: 40%;
     float: right;
+    margin-top: 15px;
     text-align: center;
-    padding: 50px 0px 0px 0px;
+    padding-top: 40px;
 }
