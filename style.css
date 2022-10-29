@@ -57,6 +57,7 @@ a:hover
 {
     color: black;
     opacity: 0;
+    text-decoration: none;
 }
 
 .hide:hover
