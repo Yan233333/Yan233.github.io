@@ -93,6 +93,7 @@ a:hover
     background-image: url(https://api.ixiaowai.cn/api/api.php);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: auto;
 }
 
 #top
@@ -136,7 +137,7 @@ a:hover
 {
     width: 40%;
     float: right;
-    margin-top: 15px;
+    /* margin-top: 15px; */
     text-align: center;
     padding-top: 40px;
 }
