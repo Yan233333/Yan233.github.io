@@ -93,7 +93,7 @@ a:hover
     background-image: url(https://api.ixiaowai.cn/api/api.php);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 
 #top
