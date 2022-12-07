@@ -1,17 +1,21 @@
-*
-{
-    font-family: HYDaSongJ, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: normal;
-    line-height: 150%;
-    transition: all 0.3s;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+@font-face {
+    font-family: "SourceHanSerifSC";
+    src: url("data/fonts/SourceHanSerifSC-Bold.otf");
+}
+@font-face {
+    font-family: "Mithril";
+    src: url("data/fonts/Mithril.ttf");
+}
+@font-face {
+    font-family: "Cotyledon";
+    src: url("data/fonts/Cotyledon-Regular.ttf");
 }
 
-@font-face
+*
 {
-    font-family: "HYDaSongJ";
-    src: url("data/fonts/HYDaSongJ.ttf");
+    font-family: SourceHanSerifSC;
+    font-weight: normal;
+    transition: all 0.3s;
 }
 
 p
@@ -98,7 +102,7 @@ a:hover
 #body
 {
     margin: 0px;
-    background-image: url(https://api.ixiaowai.cn/api/api.php);
+    background-image: url("data/images/96796803.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
