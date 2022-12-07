@@ -1,9 +1,17 @@
 *
 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: HYDaSongJ, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: normal;
     line-height: 150%;
     transition: all 0.3s;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face
+{
+    font-family: "HYDaSongJ";
+    src: url("data/fonts/HYDaSongJ.ttf");
 }
 
 p
