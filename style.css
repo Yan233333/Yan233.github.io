@@ -50,7 +50,7 @@ a:hover
     border-style: solid;
     border-color: rgba(127, 127, 127, 0.9);
     border-width: 1px;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 .shadow
@@ -118,8 +118,8 @@ a:hover
 
 #top:hover
 {
-    padding: 125px;
-    opacity: 0.75;
+    padding: 100px;
+    opacity: 0.8;
 }
 
 #main
@@ -133,7 +133,7 @@ a:hover
 #footer
 {
     color: white;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.8);
     text-align: center;
     margin: 0px;
     padding: 20px;
@@ -141,7 +141,7 @@ a:hover
 
 #footer:hover
 {
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.6);
     /* padding: 40px; */
 }
 
@@ -149,8 +149,6 @@ a:hover
 {
     width: 40%;
     float: right;
-    /* margin-top: 15px; */
     text-align: center;
     padding-top: 40px;
-    border-radius: 35px;
 }
