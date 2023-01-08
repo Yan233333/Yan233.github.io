@@ -3,12 +3,12 @@
 @font-face
 {
     font-family: "Mithril";
-    src: url("data/fonts/Mithril.ttf");
+    src: url("Data/Fonts/Mithril.ttf");
 }
 @font-face
 {
     font-family: "Cotyledon";
-    src: url("data/fonts/Cotyledon-Regular.ttf");
+    src: url("Data/Fonts/Cotyledon-Regular.ttf");
 }
 
 *
