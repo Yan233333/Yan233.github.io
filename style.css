@@ -1,19 +1,19 @@
-@font-face {
-    font-family: "SourceHanSerifSC";
-    src: url("data/fonts/SourceHanSerifSC-Bold.otf");
-}
-@font-face {
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&display=swap");
+
+@font-face
+{
     font-family: "Mithril";
     src: url("data/fonts/Mithril.ttf");
 }
-@font-face {
+@font-face
+{
     font-family: "Cotyledon";
     src: url("data/fonts/Cotyledon-Regular.ttf");
 }
 
 *
 {
-    font-family: SourceHanSerifSC;
+    font-family: "Noto Serif SC", serif;
     font-weight: normal;
     transition: all 0.3s;
 }
