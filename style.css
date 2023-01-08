@@ -102,6 +102,8 @@ a:hover
 #body
 {
     margin: 0px;
+    background-image: url("https://pixiv.re/83223529.jpg");
+    /* background-image: linear-gradient(180deg, rgb(127, 191, 255), rgb(0, 31, 127)); */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,15 +112,15 @@ a:hover
 #top
 {
     text-align: center;
-    padding: 75px;
-    background-image: linear-gradient(120deg, rgb(255, 127, 255), rgb(127, 127, 255));
+    padding: 80px;
+    background-image: linear-gradient(135deg, rgb(255, 127, 255), rgb(127, 127, 255));
     opacity: 0.9;
 }
 
 #top:hover
 {
-    padding: 100px;
-    opacity: 0.8;
+    padding: 120px;
+    opacity: 0.75;
 }
 
 #main
