@@ -1,6 +1,7 @@
-计算机软件: Photoshop, Premiere Pro, Offfice, Visual Studio, VSCode, Git, Wireshark, VMware, Sakura Frp, FL Studio, OBS studio, qBittorrent, Cheat Engine, MSI afterburner, Waifu2x-Extension-GUI, stable-diffusion-webui, Tor Browser, Clash
+计算机软件: Adobe After Effects, Adobe Premiere Pro, Adobe Media Encoder, Adobe Photoshop, Offfice, Visual Studio, VSCode, Git, Wireshark, VMware, Sakura Frp, FL Studio, OBS studio, qBittorrent, Cheat Engine, MSI afterburner, Waifu2x-Extension-GUI, stable-diffusion-webui, Tor Browser, Clash
 移动设备软件: TWRP, Magisk, LSPosed, Scene, MT管理器, Clash, 小黑屋, 一个木函
-计算机技能: 编程, 软件制作, 网页制作, 图片编辑, 视频剪辑, 音乐制作, 网络数据抓包, 内网穿透, 刷机, 系统安装
+软路由: OpenWrt
+计算机技能: 编程, 软件制作, 网页制作, 图片编辑, 视频剪辑, 音乐制作, 网络数据抓包, 内网穿透, 刷系统
 编程: C++, C#, Python, HTML, CSS
 媒体创作: 一般视频剪辑, 音MAD, 动画MAD
 游戏: 音游, FPS, ARPG, ADV
