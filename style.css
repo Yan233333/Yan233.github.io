@@ -122,16 +122,15 @@ a:hover
     padding: 120px;
     opacity: 0.6;
 }
+
 #body
 {
     margin: 0px;
     background-image: url("https://pixiv.re/83223529.jpg");
-    /* background-image: linear-gradient(180deg, rgb(127, 191, 255), rgb(0, 31, 127)); */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 
 #main
 {
