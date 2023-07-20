@@ -29,7 +29,7 @@ a
 {
     color: rgb(95, 0, 127);
     text-decoration: none;
-    cursor: url("Data/Cursors/Diamond Sword.cur"), auto;
+    cursor: url("Data/Cursors/Link.cur"), auto;
 }
 
 a:hover
@@ -132,7 +132,7 @@ a:hover
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: url("Data/Cursors/Diamond Pickaxe.cur"), auto;
+    cursor: url("Data/Cursors/Normal.cur"), auto;
 }
 
 #main
