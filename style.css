@@ -25,7 +25,7 @@ p {
 a {
     color: rgb(95, 0, 127);
     text-decoration: none;
-    cursor: url("./Assets/Cursors/link.cur"), auto;
+    cursor: url("./Assets/Cursors/pin.cur"), auto;
 }
 
 a:hover {
