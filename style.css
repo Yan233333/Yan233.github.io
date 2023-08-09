@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: "Mithril";
-    src: url("Data/Fonts/Mithril.ttf");
+    src: url("./Assets/Fonts/Mithril.ttf");
 }
 
 @font-face {
     font-family: "Cotyledon";
-    src: url("Data/Fonts/Cotyledon-Regular.ttf");
+    src: url("./Assets/Fonts/Cotyledon-Regular.ttf");
 }
 
 * {
@@ -25,7 +25,7 @@ p {
 a {
     color: rgb(95, 0, 127);
     text-decoration: none;
-    cursor: url("Data/Cursors/link.cur"), auto;
+    cursor: url("./Assets/Cursors/link.cur"), auto;
 }
 
 a:hover {
@@ -111,7 +111,7 @@ a:hover {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: url("Data/Cursors/normal.cur"), auto;
+    cursor: url("./Assets/Cursors/normal.cur"), auto;
 }
 
 #main {
