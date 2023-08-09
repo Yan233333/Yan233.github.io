@@ -1,50 +1,43 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&display=swap");
 
-@font-face
-{
+@font-face {
     font-family: "Mithril";
     src: url("Data/Fonts/Mithril.ttf");
 }
-@font-face
-{
+
+@font-face {
     font-family: "Cotyledon";
     src: url("Data/Fonts/Cotyledon-Regular.ttf");
 }
 
-*
-{
+* {
     font-family: "Noto Serif SC", serif;
     font-weight: normal;
     transition: all 0.3s;
 }
 
-p
-{
+p {
     margin-left: 15px;
     margin-right: 15px;
     font-size: 18px;
 }
 
-a
-{
+a {
     color: rgb(95, 0, 127);
     text-decoration: none;
-    cursor: url("Data/Cursors/Link.cur"), auto;
+    cursor: url("Data/Cursors/link.cur"), auto;
 }
 
-a:hover
-{
+a:hover {
     color: rgb(191, 0, 255);
 }
 
-.title
-{
+.title {
     color: rgb(191, 0, 255);
     margin: 15px;
 }
 
-.white-background
-{
+.white-background {
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: rgba(255, 255, 255, 0.8);
@@ -54,105 +47,88 @@ a:hover
     border-radius: 25px;
 }
 
-.white-background:hover
-{
+.white-background:hover {
     background-color: rgba(255, 255, 255, 0.7);
 }
 
-.shadow
-{
+.shadow {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75);
 }
 
-.shadow-tiny
-{
+.shadow-tiny {
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.75);
 }
 
-.blur
-{
+.blur {
     backdrop-filter: blur(4px);
 }
 
-.hide
-{
+.hide {
     opacity: 0;
 }
 
-.hide:hover
-{
+.hide:hover {
     opacity: 0.2;
 }
 
-.inline
-{
+.inline {
     display: inline-block;
 }
 
-.dense
-{
+.dense {
     margin: 0px;
 }
 
-.zoom:hover
-{
+.zoom:hover {
     transform: scale(1.5);
 }
 
-.joke
-{
+.joke {
     text-decoration: line-through;
     opacity: 0.5;
 }
 
-.joke:hover
-{
+.joke:hover {
     opacity: 1;
 }
 
-#top
-{
+#top {
     text-align: center;
     padding: 80px;
     background-image: linear-gradient(135deg, rgb(255, 127, 255), rgb(127, 127, 255));
     opacity: 0.8;
 }
 
-#top:hover
-{
+#top:hover {
     padding: 120px;
     opacity: 0.6;
 }
 
-#body
-{
+#body {
     margin: 0px;
     background-image: url("https://pixiv.re/96796803-2.jpg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: url("Data/Cursors/Normal.cur"), auto;
+    cursor: url("Data/Cursors/normal.cur"), auto;
 }
 
-#main
-{
+#main {
     margin: auto;
     width: 50%;
     max-width: 880px;
     min-width: 580px;
 }
 
-#avatar
-{
+#avatar {
     width: 40%;
     float: right;
     text-align: center;
     padding-top: 40px;
 }
 
-#footer
-{
+#footer {
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
     text-align: center;
@@ -160,8 +136,7 @@ a:hover
     padding: 20px;
 }
 
-#footer:hover
-{
+#footer:hover {
     background-color: rgba(0, 0, 0, 0.6);
     /* padding: 40px; */
 }
