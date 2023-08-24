@@ -40,7 +40,7 @@ a:hover {
 .white-background {
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.75);
     border-style: solid;
     border-color: rgb(127, 127, 127);
     border-width: 1px;
@@ -48,7 +48,7 @@ a:hover {
 }
 
 .white-background:hover {
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .shadow {
@@ -60,7 +60,11 @@ a:hover {
 }
 
 .blur {
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(5px);
+}
+
+.blur:hover {
+    backdrop-filter: blur(2px);
 }
 
 .hide {
