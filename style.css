@@ -106,7 +106,7 @@ a:hover {
 
 #body {
     margin: 0px;
-    background-image: url("https://pixiv.re/96796803-2.jpg");
+    background-image: url("./Assets/Images/110945657_medium_quality.jpg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -125,7 +125,7 @@ a:hover {
     width: 40%;
     float: right;
     text-align: center;
-    padding-top: 40px;
+    /* padding-top: 40px; */
 }
 
 #footer {
