@@ -55,9 +55,12 @@
     </body>
 
     <script>
-        var firstBox = document.getElementById ("link");
-        var secondBox = document.getElementById ("avatar");
-        secondBox.style.height = firstBox.offsetHeight + "px";
+        window.onload = function ()
+        {
+            var firstBox = document.getElementById ("link");
+            var secondBox = document.getElementById ("avatar");
+            secondBox.style.height = firstBox.offsetHeight + "px";
+        }
     </script>
 
 </html>
