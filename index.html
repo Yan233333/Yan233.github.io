@@ -52,15 +52,14 @@
                 <p class="inline dense"> made by Yan233_ </p>
             </div>
         </footer>
+        <script>
+            window.onload = function ()
+            {
+                var firstBox = document.getElementById ("link");
+                var secondBox = document.getElementById ("avatar");
+                secondBox.style.height = firstBox.offsetHeight + "px";
+            }
+        </script>
     </body>
-
-    <script>
-        window.onload = function ()
-        {
-            var firstBox = document.getElementById ("link");
-            var secondBox = document.getElementById ("avatar");
-            secondBox.style.height = firstBox.offsetHeight + "px";
-        }
-    </script>
 
 </html>
