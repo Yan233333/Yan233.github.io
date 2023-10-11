@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="zh-CN">
+
     <head>
         <meta charset="UTF-8">
         <script src="./scripts.js"></script>
@@ -9,6 +10,7 @@
         <title> Archive Library </title>
         <base target="_blank">
     </head>
+
     <body id="body">
         <div class="shadow blur">
             <div id="top">
@@ -51,4 +53,11 @@
             </div>
         </footer>
     </body>
+
+    <script>
+        var firstBox = document.getElementById ("link");
+        var secondBox = document.getElementById ("avatar");
+        secondBox.style.height = firstBox.offsetHeight + "px";
+    </script>
+
 </html>
