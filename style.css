@@ -12,6 +12,12 @@
     src: url("./Assets/Fonts/Cotyledon-Regular.ttf");
 }
 
+@font-face
+{
+    font-family: "Ubuntu Mono";
+    src: url("./Assets/Fonts/UbuntuMono-Bold.ttf");
+}
+
 *
 {
     font-family: "Noto Serif SC", serif;
@@ -41,6 +47,19 @@ a:hover
 {
     color: rgb(191, 0, 255);
     margin: 15px;
+}
+
+.icon
+{
+    height: 32px;
+}
+
+.icon-name
+{
+    color: rgb(127, 127, 127);
+    font-family: "Ubuntu Mono";
+    margin: 0px;
+    font-size: 12px;
 }
 
 .white-background
@@ -137,37 +156,45 @@ a:hover
 #main
 {
     margin: auto;
-    width: 50%;
+    width: 880px;
+    /* width: 50%;
     max-width: 880px;
-    min-width: 580px;
+    min-width: 580px; */
+    display: flex;
+    justify-content: space-between;
 }
 
-#link
+#content
 {
-    width: 50%;
-    display: block;
-    float: left;
+    width: 60%;
+    margin-right: 15px;
+}
+
+#profile
+{
+    width: 40%;
+    margin-left: 15px;
 }
 
 #avatar
 {
-    width: 40%;
-    float: right;
     text-align: center;
-    /* padding-top: 40px; */
+    padding-top: 40px;
+    padding-bottom: 10px;
 }
 
 #footer
 {
+    width: 100%;
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
     text-align: center;
-    margin: 0px;
     padding: 20px;
+    position: fixed;
+    bottom: 0px;
 }
 
 #footer:hover
 {
     background-color: rgba(0, 0, 0, 0.6);
-    /* padding: 40px; */
 }
