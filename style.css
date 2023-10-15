@@ -1,26 +1,35 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&display=swap");
+/* Noto Serif SC */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600&display=swap");
+
+/* Lobster */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 @font-face
 {
     font-family: "Mithril";
-    src: url("./Assets/Fonts/Mithril.ttf");
+    src: url("/Assets/Fonts/Mithril.ttf");
 }
 
 @font-face
 {
     font-family: "Cotyledon";
-    src: url("./Assets/Fonts/Cotyledon-Regular.ttf");
+    src: url("/Assets/Fonts/Cotyledon-Regular.ttf");
 }
 
 @font-face
 {
     font-family: "Ubuntu Mono";
-    src: url("./Assets/Fonts/UbuntuMono-Bold.ttf");
+    src: url("/Assets/Fonts/UbuntuMono-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Cascadia Mono";
+    src: url("/Assets/Fonts/CascadiaMono-Regular.woff2");
 }
 
 *
 {
-    font-family: "Noto Serif SC", serif;
+    font-family: "Cascadia Mono", "Noto Serif SC", serif;
     font-weight: normal;
     transition: all 0.3s;
 }
