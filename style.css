@@ -36,9 +36,9 @@
 
 p
 {
-    margin-left: 15px;
-    margin-right: 15px;
     font-size: 18px;
+    /* margin-block-start: 0.5em;
+    margin-block-end: 0.5em; */
 }
 
 a
@@ -55,7 +55,6 @@ a:hover
 .title
 {
     color: rgb(191, 0, 255);
-    margin: 15px;
 }
 
 .icon
@@ -75,26 +74,27 @@ a:hover
 {
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 0.8);
     border-style: solid;
     border-color: rgb(127, 127, 127);
     border-width: 1px;
     border-radius: 25px;
+    padding: 0px 15px;
 }
 
 .white-background:hover
 {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.65);
 }
 
 .shadow
 {
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
 }
 
 .shadow-tiny
 {
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.8);
 }
 
 .blur
@@ -148,8 +148,8 @@ a:hover
 
 #top:hover
 {
-    padding: 120px;
-    opacity: 0.6;
+    padding: 110px;
+    opacity: 0.65;
 }
 
 #body
@@ -166,9 +166,6 @@ a:hover
 {
     margin: auto;
     width: 880px;
-    /* width: 50%;
-    max-width: 880px;
-    min-width: 580px; */
     display: flex;
     justify-content: space-between;
 }
@@ -188,12 +185,13 @@ a:hover
 #avatar
 {
     text-align: center;
-    padding-top: 35px;
+    padding: 35px 0px 0px 0px;
 }
 
 #footer
 {
     width: 100%;
+    font-size: 18px;
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
     text-align: center;
@@ -204,5 +202,5 @@ a:hover
 
 #footer:hover
 {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.65);
 }
