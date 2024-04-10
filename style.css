@@ -1,8 +1,14 @@
 /* Noto Serif SC */
-@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500&display=swap");
 
 /* Lobster */
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/* Ubuntu */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+/* Roboto Slab */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
 
 @font-face
 {
@@ -16,20 +22,9 @@
     src: url("/Assets/Fonts/Cotyledon-Regular.ttf");
 }
 
-@font-face
-{
-    font-family: "Ubuntu Mono";
-    src: url("/Assets/Fonts/UbuntuMono-Bold.ttf");
-}
-
-@font-face {
-    font-family: "Cascadia Mono";
-    src: url("/Assets/Fonts/CascadiaMono-Regular.woff2");
-}
-
 *
 {
-    font-family: "Cascadia Mono", "Noto Serif SC", serif;
+    font-family: "Roboto Slab", "Noto Serif SC", serif;
     font-weight: normal;
     transition: all 0.3s;
 }
@@ -65,7 +60,7 @@ a:hover
 .icon-name
 {
     color: rgb(127, 127, 127);
-    font-family: "Ubuntu Mono";
+    font-family: "Ubuntu";
     margin: 0px;
     font-size: 12px;
 }
